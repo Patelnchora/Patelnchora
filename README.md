@@ -17,12 +17,12 @@
       <sub><b>Python</b></sub>
     </td>
     <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/splunk/splunk-original.svg" alt="splunk" width="36" height="36"/><br />
-      <sub><b>React</b></sub>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/splunk/splunk-original-wordmark.svg" alt="splunk" width="36" height="36"/><br />
+      <sub><b>splunk</b></sub>
     </td>
     <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" width="36" height="36"/><br />
-      <sub><b>TypeScript</b></sub>
+      <sub><b>linux</b></sub>
     </td>
     <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="36" height="36"/><br />
